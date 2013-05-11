@@ -22,7 +22,7 @@
 
 #define OSCETOOL_VERSION "0.9.2"
 
-#define SCE_DATA_ENV "PS3"
+#define SCE_DATA_ENV "PS3DEV"
 #define SCE_DATA_DIR "./data"
 #define SCE_DATA_KEYS "keys"
 #define SCE_DATA_LDR_CURVES "ldr_curves"
